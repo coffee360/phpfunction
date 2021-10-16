@@ -8,7 +8,7 @@ use PhpOffice\PhpSpreadsheet\Style\Alignment;
 use PhpOffice\PhpSpreadsheet\Style\Fill;
 
 /**
- * ExcelOut
+ * Excel导出
  * Class ExcelOut
  * @package Phpfunction\Phpfunction
  */
