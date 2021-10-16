@@ -1,5 +1,5 @@
 {
-    "name": "app/app",
+    "name": "think/think",
     "autoload": {
         "psr-4": {
             "Administrator\\App\\": "src/"
