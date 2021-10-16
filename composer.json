@@ -1,5 +1,5 @@
 {
-    "name": "think/think",
+    "name": "thinkphp/thinkphp",
     "autoload": {
         "psr-4": {
             "Administrator\\App\\": "src/"
