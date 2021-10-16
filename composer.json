@@ -1,15 +1,15 @@
 {
-    "name": "thinkphp/thinkphp",
-    "autoload": {
-        "psr-4": {
-            "Administrator\\App\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "coffee",
-            "email": "164589895@qq.com"
-        }
-    ],
-    "require": {}
+  "name": "phpfunction/phpfunction",
+  "autoload": {
+    "psr-4": {
+      "Administrator\\App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "coffee",
+      "email": "164589895@qq.com"
+    }
+  ],
+  "require": {}
 }
