@@ -15,8 +15,8 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=5.6",
-    "phpoffice/phpspreadsheet": "^1.16",
-    "postermaker/postermaker": "^0.1.5"
+    "phpfunction/app": "^1.0",
+    "phpfunction/excel": "^1.0",
+    "phpfunction/dingding": "^1.0"
   }
 }
