@@ -16,7 +16,8 @@
   "minimum-stability": "dev",
   "require": {
     "phpfunction/app": "^1.0",
+    "phpfunction/dingding": "^1.0",
     "phpfunction/excel": "^1.0",
-    "phpfunction/dingding": "^1.0"
+    "phpfunction/wechat": "^1.0"
   }
 }
