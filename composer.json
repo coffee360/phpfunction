@@ -15,6 +15,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
+    "phpfunction/aliyun": "^1.0",
     "phpfunction/app": "^1.0",
     "phpfunction/dingding": "^1.0",
     "phpfunction/excel": "^1.0",
