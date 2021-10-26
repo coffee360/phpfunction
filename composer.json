@@ -15,9 +15,9 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "lavary/crunz": "v2.3.1",
     "phpfunction/aliyun": "^1.0",
     "phpfunction/app": "^1.0",
+    "phpfunction/crunz": "^1.0",
     "phpfunction/dingding": "^1.0",
     "phpfunction/excel": "^1.0",
     "phpfunction/postermaker": "^1.0",
