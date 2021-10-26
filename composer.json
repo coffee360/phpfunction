@@ -17,6 +17,7 @@
   "require": {
     "phpfunction/aliyun": "^1.0",
     "phpfunction/app": "^1.0",
+    "lavary/crunz": "v2.3.1",
     "phpfunction/dingding": "^1.0",
     "phpfunction/excel": "^1.0",
     "phpfunction/postermaker": "^1.0",
